@@ -7,14 +7,14 @@
 &emsp;SoulSync is a dating app created with Flutter for both iOS and Android devices. It helps users connect by allowing them to create profiles, swipe through potential matches, and chat with those they’re interested in. The app’s goal is to make meaningful connections through a sleek and user-friendly interface.
 </p>
 
-### Features
+## Features
 * **User Profiles:** Create and manage personal profiles with photos and bios.
 * **Swipe Mechanism:** Swipe left or right to express interest in potential matches.
 * **Chat Functionality:** Message matches directly within the app.
 * **Photo Sharing:** Send and receive photos in chat.
 * **Automatic Replies:** Engage with potential matches using pre-set automatic replies.
 
-#### Screenshots
+## Screenshots
 
 ![Screenshot 1](https://github.com/user-attachments/assets/129e50b1-c4e5-4d24-a5b4-39918b00eeb0)
 ![Screenshot 2](https://github.com/user-attachments/assets/f7338af3-2fbe-4757-b0ed-c13f61bab77a)
