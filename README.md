@@ -1,5 +1,7 @@
 # SoulSync
-![Screenshot 1](https://github.com/user-attachments/assets/129e50b1-c4e5-4d24-a5b4-39918b00eeb0)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/129e50b1-c4e5-4d24-a5b4-39918b00eeb0" alt="Centered Image" />
+</p>
 
 ## Description
 
